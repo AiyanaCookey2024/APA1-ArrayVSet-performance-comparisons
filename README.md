@@ -42,5 +42,16 @@
 - Memory trade-offs
 - Best practices for different use cases
 
+
+## Practical Application: Username Validator 👥
+- `practicalApplication.js`: Real-world example comparing Array and Set performance
+- Demonstrates username validation and storage
+- Shows real-time performance comparison between Array and Set operations
+- Great starting point for understanding data structure selection
+
+
+
 ## Running the Files
-```node testX.js``` (replace X with test number)
+- Performance Tests: ```node testX.js``` (replace X with test number)
+- Basic Concepts: ```node 1Arrays101.js``` or ```node 2Sets101.js```
+- Practical Example: ```node practicalApplication.js```
