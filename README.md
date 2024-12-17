@@ -52,6 +52,6 @@
 
 
 ## Running the Files
-- Performance Tests: ```node testX.js``` (replace X with test number)
-- Basic Concepts: ```node 1Arrays101.js``` or ```node 2Sets101.js```
-- Practical Example: ```node practicalApplication.js```
+- Performance Tests: `node testX.js` (replace X with test number)
+- Basic Concepts: `node 1Arrays101.js` or `node 2Sets101.js`
+- Practical Example: `node practicalApplication.js`
