@@ -8,7 +8,7 @@ uniqueUsernames.add("sjr"); // Adds element sjr to the set
 uniqueUsernames.add("sjr"); // Adding a duplicate to a set is a no-op, (it does not raise an error), nor does it modify the existing set.
 console.log(uniqueUsernames);
 
-if (!uniqueUsernames.has("sjr")) {
+if (!uniqueUsernames.has("sjr")) { //for arrays if you want to know what is within it you use includes but for sets you use has
   uniqueUsernames.add("sjr"); 
   console.log("Added"); 
 } else { 
